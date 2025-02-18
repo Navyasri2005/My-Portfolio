@@ -1,11 +1,10 @@
 # Portfolio| Navya sri
-Effortless Heliotrope
 
 ## Description
 Effortless Heliotrope is a web-based application hosted on Netlify. This project is designed to provide a seamless and interactive user experience with a focus on performance and responsiveness. It can be used for [specific purpose, e.g., portfolio, business landing page, productivity tool, etc.].
 
 ## Live Demo
-You can access the live website here: [Effortless Heliotrope](https://effortless-heliotrope-da1672.netlify.app/)
+You can access the live website here: [Portfolio](https://effortless-heliotrope-da1672.netlify.app/)
 
 ## Features
 - Modern and responsive design
